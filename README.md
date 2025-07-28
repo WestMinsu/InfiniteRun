@@ -1,8 +1,8 @@
-# Endless Runner Prototype
+# 🏃 Endless Runner Prototype 🎮
 
 This is an endless runner game prototype developed using **Unreal Engine 5.4**.
 
-## Purpose of the Prototype
+## 📖 Purpose of the Prototype
 
 The primary purpose of this prototype was to learn the core features of Unreal Engine 5 through various tutorials and to successfully implement fundamental game mechanics.
 
@@ -18,7 +18,7 @@ The key features implemented in this project are:
 
 * **Data Persistence:** A save system that stores the player's high score and collected coins, ensuring the data persists between game sessions.
 
-## Controls
+## ⌨️ Controls
 
 The player can be controlled using either the keyboard arrows or the WASD keys.
 
@@ -29,3 +29,13 @@ The player can be controlled using either the keyboard arrows or the WASD keys.
 * **Jump:** `W` or `Up Arrow`
 
 * **Slide:** `S` or `Down Arrow`
+
+## 💡 Potential Enhancements
+
+While this prototype successfully implements the core mechanics, here are several features that could be added to expand it into a more complete game:
+
+* **Power-up Items:** Introducing items like a **Magnet** to attract coins automatically and an **Invincibility** shield to protect the player from obstacles.
+
+* **Shop & Customization System:** A shop where players can spend their collected coins to unlock new playable **characters** or purchase **starting items** for their next run.
+
+* **Advanced Scoring & Leaderboard:** Implementing a more sophisticated scoring system that rewards combos or distance milestones, along with an online **leaderboard** to encourage competition among players.
